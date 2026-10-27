@@ -219,4 +219,4 @@ Copernic Agent Basic is offered as a full free version with all features and upd
 Start optimizing your web searches today with **Copernic Agent Basic**—the ultimate free search tool for Windows!
 
 ---
-**Last updated:** 2026-10-26 21:19:19 UTC
+**Last updated:** 2026-10-27 01:05:32 UTC
